@@ -4,3 +4,4 @@
 - 💞️  I’m looking to collaborate on nothing atm.
 - 📫  How to reach me; filip@heinel.dev
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkrew)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=dark)
