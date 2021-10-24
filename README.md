@@ -7,7 +7,6 @@
 - 💞️  I’m looking to collaborate on nothing atm.
 - 📫  How to reach me; filip@heinel.dev
 
-<br />
 
 
 ### Connect with me
