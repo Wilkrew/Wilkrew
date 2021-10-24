@@ -1,6 +1,6 @@
 ## Hi! I'm Filip, aka Wilkrew/Wilken
 
-- 👋  Hi, I’m Filip. At my core I'm a Jack of All Trades that enjoy both being a techie and delve into what makes people as well as business tick. 
+- 👋  Hi, I’m Filip. At my core I'm a Jack of All Trades that enjoy both being a techie and delve into what makes people as well as businesses tick. 
 - 🥅  My personal goals is to continuously develop my knowledge and skills. On a wider scale I want to make a positive impact for people and the world around us. 
 - 👀  I’m interested in becoming a Full Stack Developer
 - 🌱  I’m currently learning Front End Development, more specifically React/React Native
