@@ -5,7 +5,7 @@
 - 👀  I’m interested in becoming a Full Stack Developer
 - 🌱  I’m currently learning Front End Development
 - 📚  I'm currently in the Harvard CS50's Introduction to Computer Science Course
-- 💞️  I’m looking to collaborate on nothing atm.
+- 💞️  I’m looking to collaborate on nothing atm, but don't be shy to send a collaboration suggestion! :)
 - 📫  How to reach me; filip@heinel.dev
 
 
