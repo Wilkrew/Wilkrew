@@ -12,9 +12,11 @@
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/filip-heinel/">
-<img align="left" alt="Wilkrew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Filip Heinel/Wilkrew | LinkedIn" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
 </a>
-                                                                                                                             
+
+<br />
+<br />
 <br />
 <br />
 <br />
