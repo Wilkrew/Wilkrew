@@ -3,7 +3,7 @@
 - 👋  Hi, I’m Filip. At my core I'm a Jack of All Trades that enjoy both being a techie and delve into what makes people as well as businesses tick. 
 - 🥅  My personal goals is to continuously develop my knowledge and skills. On a wider scale I want to make a positive impact for people and the world around us. 
 - 👀  I’m interested in becoming a Full Stack Developer
-- 🌱  I’m currently learning Front End Development
+- 🌱  I’m currently focusing on learning Front End Development
 - 📚  I'm currently messing around with 3D-printers and learning React Native/Expo
 - 💞️  I’m looking to collaborate on nothing atm, but don't be shy to send a collaboration suggestion! :)
 - 📫  How to reach me; filip@heinel.dev
