@@ -5,7 +5,7 @@
 - 👀  I’m interested in becoming a Full Stack Developer
 - 🌱  I’m currently focusing on learning Front End Development
 - 📚  I'm currently building a portfolio site with the goal to showcase different types of projects and styling variants. 
-(Also another very exciting project)
+( Also a very exciting AI related project 👀 )
 - 💞️  I’m looking to collaborate on nothing atm, got my hands full 
 - 📫  How to reach me; filip@heinel.dev
 
