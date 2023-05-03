@@ -8,6 +8,7 @@
 ( Also I'm on a very exciting AI related project 👀 )
 - 💞️  I’m looking to collaborate on nothing atm, got my hands full 
 - 📫  How to reach me; filip@heinel.dev
+- 🤝  Need one or multiple new hands on deck to help out with FE, BE and UX? sales@kumpan.se
 
 
 
