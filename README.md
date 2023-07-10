@@ -10,7 +10,6 @@
 - 📫  How to reach me; filip@heinel.dev
 - 🤝  Need one or multiple new hands on deck to help out with FE, BE and UX? sales@kumpan.se
 
-<br />
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/filip-heinel/">
@@ -19,6 +18,8 @@
 
 <br />
 
+<br />
+<br />
 <br />
 
 ### Languages and frameworks
