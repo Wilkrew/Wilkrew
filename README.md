@@ -1,10 +1,9 @@
 ## Hi! I'm Filip, aka Wilkrew/Wilken
 
 - 👋  Hi, I’m Filip. At my core I'm a Jack of All Trades that enjoy both being a techie and delve into what makes people as well as businesses tick. 
-- 🥅  My personal goals is to continuously develop my knowledge and skills. On a wider scale I want to make a positive impact for people and the world around us. 
-- 👀  I’m interested in becoming a Full Stack Developer
-- 🌱  I’m currently focusing on Front End Development
-- 📚  I'm currently working on an AI/Education related project and working on some self hosting solutions
+- 🥅  My current goal is to develop my backend skills
+- 🌱  I’m currently focusing on learning PHP/Java
+- 📚  I'm currently working on a B2B-CRM side project and finding new ways to improve my self hosting setup
 - 📫  How to reach me; filip@heinel.dev
 - 🤝  Need one or multiple new hands on deck to help out with FE, BE and UX? sales@kumpan.se
 
