@@ -1,8 +1,8 @@
 ## Hi! I'm Filip, aka Wilkrew/Wilken
 
 - 👋  Hi, I’m Filip. At my core I'm a Jack of All Trades that enjoy both being a techie and delve into what makes people as well as businesses tick. 
-- 🥅  My current goal is to develop my backend skills
-- 🌱  I’m currently focusing on learning PHP/Java
+- 🥅  My current goal is to develop my automation/backend skills
+- 🌱  I’m currently focusing on learning agentic workflows/Java
 - 📚  I'm currently working on a B2B-CRM side project and finding new ways to improve my self hosting setup
 - 📫  How to reach me; filip@heinel.dev
 
