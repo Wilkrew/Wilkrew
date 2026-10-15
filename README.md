@@ -5,7 +5,6 @@
 - 🌱  I’m currently focusing on learning PHP/Java
 - 📚  I'm currently working on a B2B-CRM side project and finding new ways to improve my self hosting setup
 - 📫  How to reach me; filip@heinel.dev
-- 🤝  Need one or multiple new hands on deck to help out with FE, BE and UX? sales@kumpan.se
 
 
 ### Connect with me
