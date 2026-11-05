@@ -1,48 +1,50 @@
-## Hi! I'm Filip, aka Wilkrew/Wilken
+```text
+████████████████████
+██                ████
+██  ████████████  ████            ██                      ██              ██
+██  ██            ████                                    ██              ██
+██  ██    ██      ████  ████████  ██  ████████  ████████  ██        ████████  ████████  ██    ██
+██  ██████████    ████  ██    ██  ██  ██    ██  ██    ██  ██        ██    ██  ██    ██  ██    ██
+██  ██    ██      ████  ████████  ██  ██    ██  ████████  ██        ██    ██  ████████  ██    ██
+██  ██    ██      ████  ██        ██  ██    ██  ██        ██        ██    ██  ██          ████
+██  ██            ████  ████████  ██  ██    ██  ████████  ████  ██  ████████  ████████    ████
+██                ████
+██████████████████████
+  ████████████████████
+```
 
-- 👋  Hi, I’m Filip. At my core I'm a Jack of All Trades that enjoy both being a techie and delve into what makes people as well as businesses tick. 
-- 🥅  My current goal is to develop my automation/backend skills
-- 🌱  I’m currently focusing on learning agentic workflows/Java
-- 📚  I'm currently working on a B2B-CRM side project and finding new ways to improve my self hosting setup
-- 📫  How to reach me; filip@heinel.dev
+## Hi! I'm Filip, aka Wilkrew 👋
 
+Full-stack developer in Stockholm, problem solver, organiser and planner, and a bridge between tech, business and, most importantly, users. Five years of TypeScript, React, Next.js and Node.
 
-### Connect with me
-<a href="https://www.linkedin.com/in/filip-heinel/">
-<img align="left" alt="Filip Heinel/Wilkrew | LinkedIn" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
-</a>
+```ts
+const filip = {
+  class: "Jack of all trades",
+  role: "Full-stack developer",
+  base: "Stockholm, SE",
+  motto: "I develop & fix stuff",
+  speaks: ["sv", "en", "de (basic)", "pl (basic)", "ja (beginner)"],
+};
+```
 
-<br />
+- 💼 **Now:** SEO and development at Emax Media, since August 2026.
+- 🏗️ **Before:** four years as a developer and consultant at Kumpan, with client contracts for Affärsvärlden, Suntarbetsliv and Evoli. Before that, Muntra, where I moved from customer success into development.
+- 🌱 **Evenings:** my own projects: a community app built around local events, a planning platform, and the AI skills I use every day.
+- 🐧 **At home:** a Linux box running my own services. Mostly an excuse to break things and fix them.
 
-<br />
-<br />
-<br />
+> [!NOTE]
+> Most of my work lives in private repositories for clients and employers. The contribution graph counts it, but the public repos here are older side projects.
 
 ### Languages and frameworks
 
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Redux" width="26px" src="https://user-images.githubusercontent.com/77172584/138590396-506f42cb-95e5-4229-8a4d-358a341c5874.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-
-<br />
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/react/react-original.svg" alt="React" title="React" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/php/php-original.svg" alt="PHP" title="PHP" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="32" /></p>
 
 ### Tools
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Digital Ocean" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"/>
-<img align="left" alt="PuTTY" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-plain.svg" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<br />
-<br />
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/git/git-original.svg" alt="Git" title="Git" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/amazonwebservices/amazonwebservices-plain.svg" alt="AWS" title="AWS" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" title="DigitalOcean" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/linux/linux-original.svg" alt="Linux" title="Linux" height="32" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg" alt="Python" title="Python" height="32" /></p>
 
----
+**AI:** Cursor, Claude Code, Claude plugins and skills, OpenAI API, vector databases
+
+### Connect with me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/filip-heinel) · 🌐 [heinel.dev](https://heinel.dev) · 📫 [filip@heinel.dev](mailto:filip@heinel.dev)
